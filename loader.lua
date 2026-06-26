@@ -1,4 +1,2 @@
-ID="4c78314a-bc55-43c0-9947-1c9db37afdab"
-RUN_AFTER=loadstring(game:HttpGet("https://cdn.project-reverse.org/ame_analyzer.luau"))()
-
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjRjNzgzMTRhLWJjNTUtNDNjMC05OTQ3LTFjOWRiMzdhZmRhYiIsImtpbmQiOiJsb2FkZXIifQ"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/BWcDkQydiKSRBZZn/raw"))()
+loadstring(game:HttpGet("https://cdn.project-reverse.org/ame_analyzer.luau"))()
